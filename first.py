@@ -7,3 +7,5 @@ def generations(x,n):
   return n
 
   
+def auto_time():
+	return generations(10, 1)
